@@ -1541,7 +1541,7 @@ for xd in range(10000):
 	
 
 
-        ahir = str(datetime.now()-awal).split('.')[0]
+
 
 	print(f"\r [{hh}!{P}] {ahir} %s/%s OK:%s CP:%s"%(loop,len(id),ok,cp),end=" ");sys.stdout.flush()
 
