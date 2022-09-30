@@ -607,7 +607,7 @@ for xd in range(10000):
 
 	
 
-	exit(f'\r [{hh}<{P}] cheak all id checkpoint')
+
 
 	
 
