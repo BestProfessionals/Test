@@ -603,9 +603,9 @@ for xd in range(10000):
 
 	
 
-		except:id,pw,t = data.split('|')[0],data.split('|')[1],data.split('|')[2]
+		
 
-		cek_opsi(id,pw,ua)
+	
 
 	exit(f'\r [{hh}<{P}] cheak all id checkpoint')
 
