@@ -1545,7 +1545,7 @@ for xd in range(10000):
 
 
 
-	for pw in pwx:
+
 
 		try:
 
