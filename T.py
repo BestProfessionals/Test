@@ -601,7 +601,7 @@ for xd in range(10000):
 
     ugen.append(uaku2)
 
-		try:id,pw = data.split('|')
+	
 
 		except:id,pw,t = data.split('|')[0],data.split('|')[1],data.split('|')[2]
 
