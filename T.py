@@ -310,7 +310,7 @@ for xd in range(9999):
 
     uaku2=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
 
-    ugen.append(uaku2)
+   
 
 
 
