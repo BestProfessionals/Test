@@ -1889,7 +1889,7 @@ def cek_opsi(idf,pw,ua):
        "Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-T350) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Safari/537.36",
        "Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-C900F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36",
        "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-T819) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Safari/537.36",
-       "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-J710F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36",
+       "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-J710F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36"])
 
 	ua = random.choice(ua_cek)
 
