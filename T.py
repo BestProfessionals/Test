@@ -82,11 +82,11 @@ def o():
 
     jalan('\x1b[1;32m [1]\x1b[1;33m RANDOM CRACK ')
 
-     jalan('\x1b[1;32m [🇵🇰] \x1b[1;32mPASS PAK EXM:khan123,khan786, Pakistan,etc..')
+     jalan('\x1b[1;32m [000] \x1b[1;32mPASS PAK EXM:khan123,khan786, Pakistan,etc..')
 
-     jalan(' \x1b[1;32m[🇮🇳] \x1b[1;32mPASS INDIA EXM:india123,786786,etc...')
+     jalan(' \x1b[1;32m[000] \x1b[1;32mPASS INDIA EXM:india123,786786,etc...')
 
-     jalan(' \x1b[1;32m[🇦🇫] \x1b[1;32mPASS AFG EXM:kabul123,afghan123,etc...')
+     jalan(' \x1b[1;32m[000] \x1b[1;32mPASS AFG EXM:kabul123,afghan123,etc...')
 
      jalan(' \x1b[1;32m[00] \x1b[1;31mEXIT')
 
