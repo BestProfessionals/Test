@@ -290,7 +290,7 @@ BA = '\x1b[1;100m' # BELAKANG ABU ABU
 
 my_color = [
 
- W, Z, H, Y, B, L, O, N]
+ P, M, H, K, B, U, O, N]
 
 warna = random.choice(my_color)
 
