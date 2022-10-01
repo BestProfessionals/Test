@@ -82,11 +82,11 @@ def o():
 
     jalan('\x1b[1;32m [1]\x1b[1;33m RANDOM CRACK ')
 
-     jalan('\x1b[1;32m [A] \x1b[1;32mPASS PAK EXM:khan123,khan786, Pakistan,etc..')
+     jalan('\x1b[1;32m [2] \x1b[1;32mPASS PAK EXM:khan123,khan786, Pakistan,etc..')
 
-     jalan(' \x1b[1;32m[B] \x1b[1;32mPASS INDIA EXM:india123,786786,etc...')
+     jalan(' \x1b[1;32m[3] \x1b[1;32mPASS INDIA EXM:india123,786786,etc...')
 
-     jalan(' \x1b[1;32m[C] \x1b[1;32mPASS AFG EXM:kabul123,afghan123,etc...')
+     jalan(' \x1b[1;32m[4] \x1b[1;32mPASS AFG EXM:kabul123,afghan123,etc...')
 
      jalan(' \x1b[1;32m[00] \x1b[1;31mEXIT')
 
@@ -96,19 +96,19 @@ def o():
 
          i()
 
-    if None == 'A':
+    if None == '2':
 
         os.system('xdg-open t.me/best_technicals')
 
         return None
 
-    if None == 'B':
+    if None == '3':
 
         os.system('xdg-open https://www.facebook.com/Best.Technicals.tm')
 
         return None
 
-    if None == 'C':
+    if None == '4':
 
         os.system('xdg-open https://facebook.com/groups/924700580893144/')
 
